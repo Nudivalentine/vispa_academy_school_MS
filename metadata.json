@@ -1,0 +1,6 @@
+{
+  "name": "Vispa Academy School Management System",
+  "description": "Comprehensive school administration, CBC report cards, fee tracking, and AI tutoring system for Vispa Mixed School (Grade 1-10) in Kenya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
