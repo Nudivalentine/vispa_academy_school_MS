@@ -490,7 +490,7 @@ export const AuthModal: React.FC<AuthModalProps> = ({
                           value={identifier}
                           onChange={(e) => setIdentifier(e.target.value)}
                           placeholder={
-                            loginCategory === 'staff' ? 'e.g. superadmin, principal, teacher, finance...' :
+                            loginCategory === 'staff' ? '...' :
                             loginCategory === 'student' ? 'e.g. VIS/2024/012' :
                             'e.g. 0722345678'
                           }
